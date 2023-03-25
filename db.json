@@ -20,8 +20,28 @@
             "genre" : "Horror",
             "IMDB_Rating" : 7.2,
             "ticket" : 200
-        }
-    ],
+        },
+        {
+          "id": 3,
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQIPpNJmUIimiSJiV_wDu7hIiFxOob2JIVA&usqp=CAU",
+          "title": "Thor",
+          "director": "Francis Lawrence",
+          "year": 2004,
+          "genre": "Action",
+          "IMDB_Rating": 7.5,
+          "ticket": 400
+      },
+      {
+        "id": 4,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMXlw-hbiLoNgY5FUBdJLoADwJ39RtdL-tw&usqp=CAU",
+        "title": "Thor",
+        "director": "Francis Lawrence",
+        "year": 2019,
+        "genre": "Horror",
+        "IMDB_Rating": 8,
+        "ticket": 700
+    }
+  ],
 
     "users": [
         {
