@@ -43,6 +43,19 @@
     }
   ],
 
+  "tracker": [
+    {
+      "id": 1,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMXlw-hbiLoNgY5FUBdJLoADwJ39RtdL-tw&usqp=CAU",
+      "title": "Thor",
+      "director": "Francis Lawrence",
+      "year": 2019,
+      "genre": "Horror",
+      "IMDB_Rating": 8,
+      "ticket": 700
+  }
+  ],
+
     "users": [
         {
           "id": 1,
