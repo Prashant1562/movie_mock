@@ -81,5 +81,14 @@
           "age": 29,
           "email": "aproback3@theglobeandmail.com"
         }
-      ]
+      ],
+
+      "groceries": [
+        {
+            "name":"Fresho Carrot - Orange",
+            "qty": "1kg",
+            "description":"Fresh Vegetables Beans, Brinjals & Okra",
+            "image":"https://www.bigbasket.com/media/uploads/p/l/10000070_15-fresho-carrot-orange.jpg"
+        }
+    ]
 }
